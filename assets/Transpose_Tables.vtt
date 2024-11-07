@@ -1,0 +1,61 @@
+﻿WEBVTT
+
+00:00:00.150 --> 00:00:02.750
+Để bắt đầu, hãy thêm một trang tính mới
+
+00:00:02.750 --> 00:00:04.830
+cho tệp Excel, ở dưới cùng. Nhấp đúp vào đó
+
+00:00:04.830 --> 00:00:06.590
+để đặt tên là "Bảng có cấu trúc".
+
+00:00:08.593 --> 00:00:11.033
+Chọn dữ liệu trong cột A bằng cách nhấp
+
+00:00:11.033 --> 00:00:13.633
+và kéo con trỏ của bạn khắp cột đó
+
+00:00:13.633 --> 00:00:16.353
+từ hàng 1 đến 7, nhấp chuột phải, chọn Copy.
+
+00:00:17.924 --> 00:00:19.884
+Chuyển đến trang tính mới của bạn và nhấp chuột phải vào
+
+00:00:19.884 --> 00:00:22.644
+ô A1. Trong các tùy chọn Paste, chọn
+
+00:00:22.644 --> 00:00:25.444
+Transpose. Dữ liệu được lưu trữ trong các hàng hiện
+
+00:00:25.444 --> 00:00:27.324
+đã được sao chép lên nhiều cột.
+
+00:00:43.237 --> 00:00:45.997
+Bây giờ, chọn tất cả dữ liệu, sao chép và dán
+
+00:00:45.997 --> 00:00:48.837
+vào trang tính mới trong ô A2, vẫn
+
+00:00:48.837 --> 00:00:50.877
+sử dụng tùy chọn dán là Transpose.
+
+00:00:53.673 --> 00:00:55.873
+Lúc này, dữ liệu của bạn đã được định dạng chính xác vào
+
+00:00:55.873 --> 00:00:58.273
+các hàng và cột. Bạn chỉ cần thay đổi
+
+00:00:58.273 --> 00:01:01.233
+giá trị trong ô A1 từ "data" thành "year"
+
+00:01:01.233 --> 00:01:02.993
+để cột được gắn nhãn chính xác.
+
+00:01:03.457 --> 00:01:06.217
+Cuối cùng, chọn tất cả dữ liệu và định dạng
+
+00:01:06.217 --> 00:01:08.337
+thành bảng bằng một trong các phương thức
+
+00:01:08.337 --> 00:01:10.137
+mà bạn đã học trong bài tập trước.

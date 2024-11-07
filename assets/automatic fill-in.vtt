@@ -1,0 +1,49 @@
+﻿WEBVTT
+
+00:00:00.213 --> 00:00:02.253
+Suppose you have a series of numbers or
+
+00:00:02.253 --> 00:00:04.173
+dates that you need to enter consecutively
+
+00:00:05.813 --> 00:00:08.133
+In this case, let's create a new column
+
+00:00:08.133 --> 00:00:08.773
+for the year
+
+00:00:09.721 --> 00:00:12.481
+Type the starting value in a cell equals
+
+00:00:12.481 --> 00:00:13.841
+year F2
+
+00:00:18.686 --> 00:00:20.846
+Hover your cursor over the small square
+
+00:00:20.846 --> 00:00:22.806
+at the bottom right corner of the cell
+
+00:00:22.846 --> 00:00:24.566
+until it turns into a black cross
+
+00:00:25.214 --> 00:00:27.654
+Click and drag the cross down or across
+
+00:00:27.654 --> 00:00:29.694
+and Excel will automatically fill in the
+
+00:00:29.694 --> 00:00:30.454
+series for you
+
+00:00:31.420 --> 00:00:33.180
+You can also do that by double clicking
+
+00:00:33.180 --> 00:00:33.580
+the cell
+
+00:00:36.420 --> 00:00:39.260
+As you can see, no need to manually enter
+
+00:00:39.260 --> 00:00:41.740
+each value, Excel does the work for you

@@ -1,0 +1,61 @@
+﻿WEBVTT
+
+00:00:00.150 --> 00:00:02.750
+To start, add a new sheet to the excel
+
+00:00:02.750 --> 00:00:04.830
+file at the bottom. Double click it to
+
+00:00:04.830 --> 00:00:06.590
+name it 'Structured Table'.
+
+00:00:08.593 --> 00:00:11.033
+Select the data in column A by clicking
+
+00:00:11.033 --> 00:00:13.633
+and dragging your cursor over it from row
+
+00:00:13.633 --> 00:00:16.353
+one to seven, right click and selectcopy.
+
+00:00:17.924 --> 00:00:19.884
+Go to your new sheet and right click in
+
+00:00:19.884 --> 00:00:22.644
+cell A1. Under the Paste options select
+
+00:00:22.644 --> 00:00:25.444
+Transpose. The data stored in rows is now
+
+00:00:25.444 --> 00:00:27.324
+copied across multiple columns.
+
+00:00:43.237 --> 00:00:45.997
+Now select all the data, copy and paste
+
+00:00:45.997 --> 00:00:48.837
+into the new sheet in cell A2, again
+
+00:00:48.837 --> 00:00:50.877
+using the Transpose paste option.
+
+00:00:53.673 --> 00:00:55.873
+Now your data is correctly formatted into
+
+00:00:55.873 --> 00:00:58.273
+rows and columns. You just need to change
+
+00:00:58.273 --> 00:01:01.233
+the value in A1 from 'data' to 'year'  so
+
+00:01:01.233 --> 00:01:02.993
+the column is correctly labeled.
+
+00:01:03.457 --> 00:01:06.217
+Finally, select all your data and format
+
+00:01:06.217 --> 00:01:08.337
+it into a table using one of the methods
+
+00:01:08.337 --> 00:01:10.137
+you learned in the previous exercise.

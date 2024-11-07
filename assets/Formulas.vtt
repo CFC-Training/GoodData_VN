@@ -1,0 +1,121 @@
+﻿WEBVTT
+
+00:00:00.190 --> 00:00:01.990
+Let's say you want to calculate the total
+
+00:00:01.990 --> 00:00:04.030
+amount of sightings for this type of frog
+
+00:00:05.517 --> 00:00:07.997
+Begin your formula with an equal sign and
+
+00:00:07.997 --> 00:00:09.037
+type the function name
+
+00:00:10.716 --> 00:00:12.396
+The function we want to be using is sum f
+
+00:00:12.396 --> 00:00:14.636
+or addition.  Start with equal sum,
+
+00:00:15.084 --> 00:00:17.044
+then select the cells or type their
+
+00:00:17.044 --> 00:00:20.004
+references inside the parentheses. Finish
+
+00:00:20.004 --> 00:00:21.524
+by closing the parentheses.
+
+00:00:22.345 --> 00:00:24.785
+Once your formula is complete, press
+
+00:00:24.785 --> 00:00:26.545
+enter and here you go
+
+00:00:27.888 --> 00:00:29.608
+Let's now look as a more complicated
+
+00:00:29.608 --> 00:00:31.816
+formulaIf you want to count the number of
+
+00:00:31.816 --> 00:00:33.696
+occurrences this frog species was
+
+00:00:33.696 --> 00:00:35.976
+recorded at a high confidence level, you
+
+00:00:35.976 --> 00:00:37.416
+can use the Count IF function.
+
+00:00:37.920 --> 00:00:39.280
+Click on the cell where you want the
+
+00:00:39.280 --> 00:00:40.160
+result to appear
+
+00:00:40.584 --> 00:00:42.344
+Type in Equals COUNTIF to start your
+
+00:00:42.344 --> 00:00:42.824
+formula
+
+00:00:43.784 --> 00:00:45.664
+Then select the range that contains the
+
+00:00:45.664 --> 00:00:47.344
+species names, column A
+
+00:00:48.048 --> 00:00:50.448
+Type a comma and then in quotation marks
+
+00:00:50.448 --> 00:00:52.488
+specify the species name you are
+
+00:00:52.488 --> 00:00:53.208
+interested in
+
+00:00:53.592 --> 00:00:56.352
+As you can see, Excel will provide a hint
+
+00:00:56.352 --> 00:00:58.632
+beneath the formula, guiding you through
+
+00:00:58.632 --> 00:00:59.992
+the correct writing format
+
+00:01:00.504 --> 00:01:03.144
+To continue, type another comma to add the
+
+00:01:03.144 --> 00:01:05.544
+2nd criteria range, which would be the
+
+00:01:05.544 --> 00:01:07.264
+confidence level column B in the
+
+00:01:07.264 --> 00:01:07.904
+spreadsheet
+
+00:01:08.328 --> 00:01:10.808
+Type the final comma and in quotation
+
+00:01:10.808 --> 00:01:13.608
+marks put the desired confidence level '
+
+00:01:13.608 --> 00:01:14.008
+high'
+
+00:01:14.711 --> 00:01:16.671
+Drag the corner of the cell downward to
+
+00:01:16.671 --> 00:01:18.911
+replicate the formula. Then adjust the
+
+00:01:18.911 --> 00:01:21.111
+confidence level within the quotes to '
+
+00:01:21.231 --> 00:01:23.831
+Medium' or 'Low' to
+
+00:01:23.831 --> 00:01:25.311
+obtain respective counts

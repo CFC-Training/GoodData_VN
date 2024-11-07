@@ -1,0 +1,85 @@
+﻿WEBVTT
+
+00:00:00.190 --> 00:00:02.390
+Trước tiên, chúng ta hãy bắt đầu với việc chọn
+
+00:00:02.390 --> 00:00:03.910
+dữ liệu mà bạn muốn áp dụng
+
+00:00:03.910 --> 00:00:04.630
+định dạng có điều kiện
+
+00:00:05.118 --> 00:00:07.078
+Ví dụ: chọn cột B
+
+00:00:07.518 --> 00:00:09.198
+Nhấp vào Định dạng có điều kiện trên
+
+00:00:09.198 --> 00:00:09.758
+tab Home
+
+00:00:10.855 --> 00:00:13.055
+Bây giờ chúng ta hãy xác định các tiêu chí sẽ
+
+00:00:13.055 --> 00:00:15.335
+kích hoạt các quy tắc định dạng của bạn. Bạn có thể
+
+00:00:15.335 --> 00:00:16.975
+chọn trong số các quy tắc như tô sáng
+
+00:00:16.975 --> 00:00:19.135
+giá trị lớn hơn một số nhất định hoặc
+
+00:00:19.135 --> 00:00:20.695
+chứa văn bản cụ thể
+
+00:00:21.175 --> 00:00:23.415
+Hãy chọn "text that contains"
+
+00:00:24.571 --> 00:00:27.131
+Trong phần hộp thoại, xác định
+
+00:00:27.131 --> 00:00:29.691
+tiêu chí của bạn. Ví dụ, nếu bạn muốn
+
+00:00:29.691 --> 00:00:31.451
+tô sáng các ô có chứa từ
+
+00:00:31.451 --> 00:00:34.411
+"Cao", nhập "Cao" vào hộp văn bản và
+
+00:00:34.411 --> 00:00:37.131
+chọn "with red fill with dark red text"
+
+00:00:38.483 --> 00:00:40.503
+Vui lòng thực hiện quy trình tương tự cho từ
+
+00:00:40.503 --> 00:00:43.243
+"trung bình" và "thấp", rồi chọn
+
+00:00:43.243 --> 00:00:45.003
+màu mà bạn muốn dùng làm định dạng
+
+00:00:50.250 --> 00:00:52.010
+Bạn sẽ thấy tất cả các ô chứa
+
+00:00:52.010 --> 00:00:54.210
+từ "Cao" hiện được tô sáng theo
+
+00:00:54.210 --> 00:00:56.530
+cách bạn đã chọn, v.v., cho phép
+
+00:00:56.530 --> 00:00:58.450
+ưu tiên nhìn thấy ngay
+
+00:00:58.450 --> 00:00:59.210
+dữ liệu quan trọng
+
+00:00:59.714 --> 00:01:01.994
+Quy tắc này cũng sẽ tự động điều chỉnh
+
+00:01:01.994 --> 00:01:04.354
+định dạng của bất kỳ mục nhập mới nào khớp
+
+00:01:04.354 --> 00:01:05.634
+với từ khóa được chỉ định

@@ -1,0 +1,79 @@
+﻿WEBVTT
+
+00:00:00.150 --> 00:00:02.150
+Bạn sẽ nhận thấy ngày tháng ở đây đang lộn xộn và
+
+00:00:02.150 --> 00:00:04.670
+thiếu tính đồng bộ, dẫn đến sự thiếu nhất quán
+
+00:00:04.670 --> 00:00:05.590
+trên toàn tập dữ liệu của bạn
+
+00:00:08.905 --> 00:00:10.785
+Hãy tô sáng các ô chứa ngày mà
+
+00:00:10.785 --> 00:00:11.825
+bạn muốn định dạng
+
+00:00:12.019 --> 00:00:14.019
+Nhấp chuột phải vào lựa chọn của bạn, và
+
+00:00:14.019 --> 00:00:16.579
+một menu sẽ xuất hiện. Chọn "Format Cells"
+
+00:00:17.139 --> 00:00:19.579
+Một hộp thoại sẽ bật lên với các
+
+00:00:19.579 --> 00:00:21.539
+tùy chọn định dạng khác nhau. Tại đây, bạn có thể
+
+00:00:21.539 --> 00:00:24.219
+tùy chỉnh phông chữ, kiểu chữ, màu sắc,
+
+00:00:24.219 --> 00:00:25.419
+căn chỉnh, v.v.
+
+00:00:26.059 --> 00:00:27.939
+Từ danh sách danh mục ở bên trái,
+
+00:00:27.939 --> 00:00:28.659
+chọn ngày.
+
+00:00:29.115 --> 00:00:31.075
+Bạn sẽ thấy các định dạng ngày khác nhau
+
+00:00:31.075 --> 00:00:33.275
+trong mục Type. Cuộn qua
+
+00:00:33.275 --> 00:00:35.555
+các tùy chọn và chọn định dạng ngày
+
+00:00:35.555 --> 00:00:37.795
+phù hợp nhất với nhu cầu của bạn. Bạn có thể
+
+00:00:37.795 --> 00:00:39.635
+chọn trong số các tùy chọn hiển thị ngày
+
+00:00:39.635 --> 00:00:42.395
+đầy đủ, viết tắt tháng, hoặc thậm chí
+
+00:00:42.395 --> 00:00:43.915
+chỉ hiển thị tháng và năm.
+
+00:00:44.846 --> 00:00:47.446
+Với nhu cầu cụ thể khác, hãy nhấp vào Tùy chỉnh.
+
+00:00:47.726 --> 00:00:49.926
+Tại đây, bạn có thể nhập thủ công một định dạng
+
+00:00:49.926 --> 00:00:51.566
+bằng mã định dạng tùy chỉnh.
+
+00:00:51.950 --> 00:00:54.270
+Nhấp OK để áp dụng các thay đổi. Các
+
+00:00:54.270 --> 00:00:56.310
+ô đã chọn lúc này sẽ hiển thị ngày theo
+
+00:00:56.310 --> 00:00:57.470
+định dạng bạn đã chọn.

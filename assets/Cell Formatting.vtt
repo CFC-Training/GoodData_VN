@@ -1,0 +1,79 @@
+﻿WEBVTT
+
+00:00:00.150 --> 00:00:02.150
+You'll notice the dates are messy and
+
+00:00:02.150 --> 00:00:04.670
+lack uniformity, leading to inconsistency
+
+00:00:04.670 --> 00:00:05.590
+across your data
+
+00:00:08.905 --> 00:00:10.785
+Highlight the cells containing dates you
+
+00:00:10.785 --> 00:00:11.825
+wish to format
+
+00:00:12.019 --> 00:00:14.019
+Right click on your selection and a menu
+
+00:00:14.019 --> 00:00:16.579
+will appear. Choose 'Format Cells'
+
+00:00:17.139 --> 00:00:19.579
+A dialog box will pop up with various
+
+00:00:19.579 --> 00:00:21.539
+formatting options. Here you can
+
+00:00:21.539 --> 00:00:24.219
+customize fonts, styles, colors,
+
+00:00:24.219 --> 00:00:25.419
+alignment, and more.
+
+00:00:26.059 --> 00:00:27.939
+From the category list on the left,
+
+00:00:27.939 --> 00:00:28.659
+select date.
+
+00:00:29.115 --> 00:00:31.075
+You will see a variety of date formats
+
+00:00:31.075 --> 00:00:33.275
+under the Type section. Scroll through
+
+00:00:33.275 --> 00:00:35.555
+the options and select the date format
+
+00:00:35.555 --> 00:00:37.795
+that best suits your needs. You can
+
+00:00:37.795 --> 00:00:39.635
+choose from options that display the date
+
+00:00:39.635 --> 00:00:42.395
+in full, abbreviate months, or even show
+
+00:00:42.395 --> 00:00:43.915
+only the month and year.
+
+00:00:44.846 --> 00:00:47.446
+For more specific needs, click on Custom.
+
+00:00:47.726 --> 00:00:49.926
+Here you can manually enter a format
+
+00:00:49.926 --> 00:00:51.566
+using the custom format codes.
+
+00:00:51.950 --> 00:00:54.270
+Click OK to apply the changes. The
+
+00:00:54.270 --> 00:00:56.310
+selected cells will now display dates in
+
+00:00:56.310 --> 00:00:57.470
+the format you've chosen.

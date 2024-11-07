@@ -1,0 +1,49 @@
+﻿WEBVTT
+
+00:00:00.213 --> 00:00:02.253
+Giả sử bạn có một loạt số hoặc
+
+00:00:02.253 --> 00:00:04.173
+ngày tháng mà bạn cần nhập liên tiếp
+
+00:00:05.813 --> 00:00:08.133
+Trong trường hợp này, hãy tạo một cột mới
+
+00:00:08.133 --> 00:00:08.773
+cho năm
+
+00:00:09.721 --> 00:00:12.481
+Nhập vào một ô giá trị bắt đầu bằng dấu bằng
+
+00:00:12.481 --> 00:00:13.841
+year F2
+
+00:00:18.686 --> 00:00:20.846
+Di chuột lên hình vuông nhỏ
+
+00:00:20.846 --> 00:00:22.806
+ở góc dưới bên phải của ô
+
+00:00:22.846 --> 00:00:24.566
+cho đến khi nó chuyển thành dấu cộng màu đen
+
+00:00:25.214 --> 00:00:27.654
+Nhấp và kéo dấu cộng đó xuống hoặc ngang qua
+
+00:00:27.654 --> 00:00:29.694
+và Excel sẽ tự động điền
+
+00:00:29.694 --> 00:00:30.454
+loạt giá trị cho bạn
+
+00:00:31.420 --> 00:00:33.180
+Bạn cũng có thể thực hiện bằng cách nhấp đúp vào
+
+00:00:33.180 --> 00:00:33.580
+ô
+
+00:00:36.420 --> 00:00:39.260
+Như bạn có thể thấy, không cần nhập thủ công
+
+00:00:39.260 --> 00:00:41.740
+từng giá trị, mà Excel sẽ làm thay bạn
